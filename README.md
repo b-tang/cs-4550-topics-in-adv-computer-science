@@ -1,6 +1,6 @@
 # CS 4550 - Topics in Advanced Computer Science
 
-## Overview
+### Overview
 This repository contains coursework and projects completed for **CS 4550 - Topics in Advanced Computer Science**. This course covers advanced topics in computer science, delving into theoretical concepts, practical applications, and cutting-edge technologies.
 
 ## Project Structure
